@@ -13,8 +13,6 @@ Instructor’s Co-Pilot was developed by a team of dedicated individuals:
 2.	Tracy Chin
 3.	Matthew Thomas
 
-We would like to extend our gratitude to the open-source community for providing the libraries and tools that made this project possible.
-
 
 **Features**
 
